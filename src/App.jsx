@@ -11,7 +11,7 @@ export default function App() {
           進入學生端（Student）
         </a>
 
-        <a className="btn admin" href="https://e-coop-stu.github.io/coop/">
+        <a className="btn admin" href="https://e-coop-stu.github.io/ecoop/">
           進入合作社端（Admin）
         </a>
       </div>

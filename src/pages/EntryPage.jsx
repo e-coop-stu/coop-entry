@@ -22,7 +22,7 @@ export default function EntryPage() {
           {/* Coop 管理端 */}
           <a
             className="entry-card coop-card"
-            href="https://e-coop-stu.github.io/coop-admin/"
+            href="https://e-coop-stu.github.io/ecoop/"
             target="_blank"
             rel="noreferrer"
           >
